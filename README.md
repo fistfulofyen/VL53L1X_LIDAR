@@ -55,6 +55,8 @@ To set up your studio environment and start working on your project, follow thes
 
 6. Test your setup and iterate on the code as needed to achieve the desired results.
 
+![setup](https://github.com/fistfulofyen/VL53L1X_LIDAR/blob/main/IMG_1845.JPG)
+
 ### 5. Code Review
 
 Before finalizing your project, it's crucial to thoroughly review the provided code. Pay attention to the following aspects:
