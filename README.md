@@ -18,7 +18,7 @@ Welcome to the studio! This README provides essential information about the comp
 
 To successfully complete your studio project, you'll need the following components:
 
-1. **MSP432E401YSimpleLink Ethernet Microcontroller Datasheet**
+1. **MSP432E401Y SimpleLink Ethernet Microcontroller Datasheet**
    - You will find relevant information in Chapter 19, especially regarding I2C communication.
 
 2. **VL53L1X ULD API (Ultra Lite Driver Application Programming Interface)**
