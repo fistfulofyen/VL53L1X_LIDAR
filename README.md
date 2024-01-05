@@ -64,9 +64,3 @@ Before finalizing your project, it's crucial to thoroughly review the provided c
 - Ensure that the code correctly initializes and communicates with the Time-of-Flight sensor (VL53L1X).
 - Verify that the code follows best practices for error handling and data processing.
 - Test the code on your hardware setup and make adjustments as needed to achieve the desired functionality.
-
-### 6. Conclusion
-
-This README provides you with the essential information and resources required for your studio project. Be sure to consult the provided documentation and code to successfully interface with the Time-of-Flight sensor and the microcontroller. Good luck with your project, and feel free to reach out if you have any questions or need further assistance!
-
----
