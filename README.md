@@ -6,7 +6,6 @@
 3. Resources
 4. Setup Instructions
 5. Code Review
-6. Conclusion
 
 ---
 
