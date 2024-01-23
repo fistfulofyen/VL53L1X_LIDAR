@@ -1,8 +1,3 @@
-//Tianze Zhang,400208135, zhant22, 
-//with 5 as the last digit 
-//Assigned Bus Speed:30MHz (changed in Systick and PLL.h)
-//with 3 as the second last digit 
-//distance Statues : PF4 (implment in onboardLEDs.c, call FlashLED3(1) here to call the function )
 
 
 #include <stdint.h>

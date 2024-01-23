@@ -1,14 +1,3 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-#zhant22
-#400208135
-#tianze zhang
-#the python version I am using is python 3.7
-#the additional pakage or libraries we need to pyserial for reading the data from port; numpy and open3d.
-
 
 import serial
 import copy
